@@ -7,7 +7,7 @@ Analysis of Election Commission of India Website for the Lok Sabha 2024 Election
 Lok Sabha Elections are a major event in India, where all eligible citizens vote to decide which party forms the government for a tenure of 5 years. The aim of this project is to scrape meaningful data from the Election Commission of India's website and use data preprocessing and mining methodology to visualize and derive meaningful insights.
 
 To see the Report Kindly visit here 
-https://mukundred.github.io/ECI-Analysis/
+https://mukundred.github.io/ECI-2024-ELECTIONS-ANALYSIS/
 
 ## Getting Started
 
